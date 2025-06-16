@@ -1,0 +1,22 @@
+.row__item-inner {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: #111;
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+.row {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.gridMotion-container {
+  padding: 20px;
+}
+
+.row__item {
+  flex: 0 0 auto;
+}
