@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import Logo from "./assets/HeaderImage/LogoTransparent.png";
+import Logo from "../public/images/LogoTransparent.png";
 import SearchBar from "./components/home/SearchBar";
 import Card from "./components/home/Card";
 import daurulang1 from "../public/images/daurulang1.jpg";
